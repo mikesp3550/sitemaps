@@ -1,0 +1,2362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/index.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/connect/search.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/thingworxanalytics_welcome.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/release-notes-intro.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Release_notes_AnalyServ_9_6.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/AnalyticsServer/Fixed-Issues-in-Analytics-Server-961.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/AnalyticsServer/whats_new_in_Analytics_Server_9_6_0_0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/AnalyticsServer/Fixed-Issues-in-Analytics-Server-960.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Release_notes_PlatAnaly_9_6.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/PlatformAnalytics/Fixed-Issues-in-Platform-Analytics-961.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/PlatformAnalytics/whats_new_in_Platform_Analytics_9_6_0_0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/PlatformAnalytics/Fixed-Issues-in-Platform-Analytics-960.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/PlatformAnalytics/Known-Issues-in-Platform-Analytics-960.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Release_notes_AnalyServ_9_5.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Fixed-Issues-in-Analytics-Server-9.5.4.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/whats_new_in_Analytics_Server_9_5_2_0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Fixed-Issues-in-Analytics-Server-9.5.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Fixed-Issues-in-Analytics-Server-9.5.0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Known-Issues-in-Analytics-Server-9.5.0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Deprecated-Entities-in-Analytics-Server-9.5.0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Release_notes_PlatAnaly_9_5.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Fixed-Issues-in-Platform-Analytics-9.5.4.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Fixed-Issues-in-Platform-Analytics-9.5.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Known-Issues-in-Platform-Analytics-9.5.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/Fixed-Issues-in-Platform-Analytics-9.5.0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/version_9_4_release_notes.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_948.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_948.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_946.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_946.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_944.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_944.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_942.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_942.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_94.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_94.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/version_9_3_release_notes.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_9318.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_9318.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_9316.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_9316.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_9314.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_9314.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_9312.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_9312.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_9310.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_9310.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_938.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_938.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_936.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_936.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_934.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_934.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_933.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release-notes_933.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_931.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_931.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics_server_release_notes_93.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform_analytics_release_notes_93.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/version_9_2_release_notes.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.15.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.15.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.13.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.13.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.11.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.11.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.9.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.9.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.8.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.8.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.6.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.6.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.5.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.5.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.4.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/version_9_1_release_notes.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.1.13.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.13.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.1.12.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.12.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.1.10.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.10.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.1.9.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.9.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.8.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.1.6.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.6.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.1.4.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.4.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.1.1.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.1.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.1.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.1.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/version_9_0_release_notes.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.0.17.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.17.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.0.15.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.15.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.0.14.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.14.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.13.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.0.11.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.11.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.0.9.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.9.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.0.5.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.5.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.0.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/analytics-server-release-notes-9.0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/release-notes/platform-analytics-release-notes-9.0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/thingworxanalytics_compatibility.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/thingworxanalytics_system_requirements.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/functionality_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/explanatory_analytics.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/descriptive_analytics.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/prediction_models.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/predictive_scoring.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/predictive_scoring_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/parse_predictive_scoring_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/prescriptive_scoring.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/prescriptive_scoring_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/parse_prescriptive_scoring_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/confidence_models.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/generate_confidence_models.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/retrieve_predictive_model_uri.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/generate_confidence_for_existing_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/retrieve_confidence_model_uri.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/download_pmml_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/score_with_confidence_models.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/interpret_confidence_model_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/anomaly_detection.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/time_series_predictions.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/learners_ensembles.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/k_fold_validation.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa_funtionality/profile_subpopulations.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa-api/twxa-api.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa-api/twxa-api-overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/twxa-api/api_changes_9_0.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/system_architecture_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/server_architecture_new.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/descriptive_analytics_architecture.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/property_transform_architecture.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/anomaly_detection_architecture_cluster.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/security_considerations_intro.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/security_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/ssl_support_for_analytics_apis.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/ssl_support_for_thingworx.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/ssl_support_for_zookeeper.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/ssl_support_for_rabbitmq.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/ssl_support_for_flink.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/update_passwords_auto_truststores.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/update_encrypted_keys_and_passwords.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/update_flink_passwords_ubuntu.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/install_title.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/install_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/components_analytics_server.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/components_analytics_extension.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/components_descriptive_analytics.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/components_property_transform.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/prerequisites_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/download_files_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/install_intro_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/text_mode_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/graphic_mode_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/silent_mode_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/scale_workers_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/large_datasets.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/verify_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/verify_analytics_extension_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/install_intro_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/text_mode_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/graphic_mode_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/silent_mode_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/configure_property_transform_settings_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/scale_property_transforms_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/verify_descriptive_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/verify_property_transform_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/change_user_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/troubleshoot_intro_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/troubleshoot_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/troubleshoot_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/cancel_install_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/cancel_install_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/log_files_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/install_log_files_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/component_log_files_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/prerequisites_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/download_files_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/install_intro_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/graphic_mode_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/silent_mode_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/scale_workers_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/verify_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/verify_analytics_extension_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/disable_auto_restart.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/install_intro_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/graphic_mode_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/silent_mode_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/configure_property_transform_settings_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/scale_property_transforms_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/verify_descriptive_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/verify_property_transform_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/change_user_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/troubleshoot_intro_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/troubleshoot_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/troubleshoot_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/cancel_install_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/cancel_install_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/log_files_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/install_log_files_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/component_log_files_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/connecting_analytics_server_azurepostgres.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/analytics_high_availiblity.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/upgrade_title.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/upgrade_for_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/upgrade_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/upgrade_extension.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/upgrade_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/modify_repair_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/modify_repair_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/upgrade_for_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/upgrade_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/upgrade_extension_2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/upgrade_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/modify_repair_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/modify_repair_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/upgrade_to_java11_for_9_2.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/upgrade_to_java11_title.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/java11_upgrade_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/java11_upgrade_analytics_server_wiindows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/java11_upgrade_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/java11_upgrade_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/update_api_key_title.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/update_api_key_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/update_api_key_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/update_appkeys_title.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/update_appkey_for_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/update_appkey_analytics_server_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/update_appkey_platform_analytics_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/update_appkey_for_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/update_appkey_analytics_server_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/update_appkey_platform_analytics_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/update_rabbitmq_password_title.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/rabbitmq_password_encryption_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/rabbitmq_password_encryption_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_install/uninstall_title.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_linux_installation/uninstall_linux.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_windows_installation/uninstall_windows.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-prep.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/optype_datatype.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/free_form_text_analysis.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/handling_missing_dataset_values.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/data_field_name_rules.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-json-sample.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-json-sample-temporal.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-via-builder.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-via-thingworx-things.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-upload.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-upload-widget.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-upload-rest.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-upload-large.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-create-dataset.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-include-in-request.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-key-infotables.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-sample-post-body.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-sample-rest-call.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/sample_javascript_service.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics-data/analytics-data-filters.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-prereqs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-download.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-import.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/reimport_builder_files.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/reimport_manager_files.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-compatibility.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-config-builder.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-builder-users.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-comm-settings.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-post-manager.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-manager-access-control.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-manager-design-time-permissions.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-manager-runtime-permissions.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-manager-visibility-permissions.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-manager-file-transfer-size.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-loadQoSData.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-manager-create-add-user.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-manager-create-application-key.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-home-mashup.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/upgrade_extension_3.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/extension-install/analytics-install-remove.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/analytics_builder_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/getting_started_with_builder.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/datasets_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/create_dataset.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/review_edit_metadata.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/view_dataset_info.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/upload_additional_data.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/view_filter.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/create_data_filter.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/delete_data_filter.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/delete_dataset.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/signals_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/identify_signals_without_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/view_signals_job_details.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/export_signals.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/profiles_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/generate_profile_based_on_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/generate_profile_without_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/view_profiles_job_details.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/export_profiles.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/predictive_models_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/create_predictive_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/filter_model_data.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/exclude_feature_from_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/add_learner_to_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/customize_confusion_matrix_weights.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/view_model_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/model_result_statistics.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/roc_curve_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/confusion_matrix_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/bubble_plot_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/view_model_job_details.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/delete_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/retrain_model.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/predictive_scoring_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/create_predictive_scoring_job.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/view_scoring_job_details.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/download_scoring_results.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/delete_predictive_scoring_job.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analytics_builder/troubleshooting_builder.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_UseOview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_GettingStarted.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_Concepts.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_WorkingWithProviders.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateProviders.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ManageProviders.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_FlexibleScaling.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_DeployerAgents.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateQoSrule.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ExampleFlexiScaling.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ManageQoSrule.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ConfigAgents.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_MSExcelConfig.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_MSExcelConfig_JAVA.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_Test_excelAgent.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_UsingSheetsModels.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateModelForExcel.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateModelForExcel_JAVA.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_WorkingModels.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateModels.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_UploadingDifferentModels.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateDataShapes.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_TestAnalysisModels.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_EnableModel.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ManageModel.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_AnalysisEventsManage.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateDiscreteEvents.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateSimulationEvents.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CascadedAnalysisEvents.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_DataMappings.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_InputMappings.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ResultMapping.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_EnableEvents.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ManageEvents.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_UseJobManage.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateJob.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ManageJob.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_WorkingWithReplay.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateReplay.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ReviewReplay.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_PredictiveServicesOverview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_PredictiveScoringAnalyticsServer.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_PredictiveServicesJobStatus.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_TroubleshootPredictiveScoringAnalyticsServer.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_UsingSettingsPage.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_BestPractices.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ConnectDisconnect.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_StoragePerformance.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_SimulationDataFramework.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_UsingDemoMashupWorks.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_TutorialDiscreteEvent.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_TutorialSimulationEvent.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ConfigureMashupsTriggerEvent.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_TutorialAnalyticsServerNonTimeSeries.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_TutorialAnalyticsServerTimeSeries.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ConnectToAdditionalAnalysisTools.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_WorkingConnectors.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ConfigSDKConnector.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateConnector.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_WorkingRouters.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_RouterTemplate.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateCustomRouterTemplate.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_AssignRouterTemplate.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_WorkingSDKAgents.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CompatibilityMatrixAgent.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateAgentNetOnly.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_NetInterfaceMethods.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateAgentJavaSdkOnly.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_JavaInterfaceMethods.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CreateCustomAgent.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_SupportedAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ProviderMgmtAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_FlexibleScalingAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_CustomizedFlexibleScalingAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ModelMgmtAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_EventMgmtAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_MappingMgmtAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_ReplayMgmtAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_JobMgmtAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_MsgMgmtAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/analysis-services/AnalysisServices_HelpMgmtAPIs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/prerequisites.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/implement_anomaly_detection.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/prepare_thingworx_for_anomaly_detection.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/create_anomaly_alert.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/migrate_old_anomaly_models.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/before_migrating_twx_server.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/before_updating_twx_analytics_server.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/migrate_twx_and_twx_analytics_servers.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/upload_anomaly_models.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/final_steps.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/anomaly_alert_statuses.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/certainty_parameter.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/anomaly_alert_services.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/anomaly_detection_data_streams.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/promote_anomaly_alert.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/retrain_anomaly_alert.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/import_export_anomaly_models.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/anomaly_detection/anomaly_dashboard_mashup.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/descriptive-analytics/da-overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/descriptive-analytics/da-scenarios.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/descriptive-analytics/da-prep-for-use.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/descriptive-analytics/da-chaining-calls.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/descriptive-analytics/da-sample-mashup.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/pt_overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/pt_scenarios.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/define_time_based_property_transform_window.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/pt_sample_mashup.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/sample_mashup_statistical_calculations.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/sample_mashup_statistical_monitoring.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/define_property_transform_programatically.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/pt_troubleshooting.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/new_pt_not_functioning.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/resolve_external_flink_connection_issues.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/create_rabbitmq_user_manually.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/stop_rabbitmq_for_pa_upgrade.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/property_transform/purge_orphan_flink_jobs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/fta_integration_title.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/overview.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/security_considerations.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/installation.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/configure_hdfs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/hdfs_unauthenticated_config.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/hdfs_authenticated_config.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/editing_java_cl_params.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/create_dataset_cp.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/retrieve_model_inputs_outputs.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/synchronous_scoring_cp.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/asynchronous_scoring_cp.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/scoring_result_cp.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/interpret_prediction_output.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/thingworx/analytics/r9/en/analytics/fta_integration/sample_custom_processor_implementation.html</loc>
+  <lastmod>2024-10-15T17:40:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

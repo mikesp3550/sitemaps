@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/index.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/WHCCategories_wncplus.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/middlemap_landingpages/NewChanged_LP.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_Section_Intro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_2_14_Section_Intro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_2_14_DedicatedThumbnailJobSchedulerFilter.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_2_13_CM_LicenseImprovement.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_2_12_ServerConfig_FontDrawing.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_70_Section_Intro_wncplus.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_70_MappingAdmin.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_MappingAdmin_ModEnum.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_MappingAdmin_CustString.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_MappingUser_CharLimit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_AutomatedDeploy_Plus_Azure.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_Section_Intro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_DeployConfig_Intro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_ContentOverview.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_PrefsProp.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_PlatformSupportChanges.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_DatabaseSupportChanges.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_Log4jUpdate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_EnhancedWinDiagnosticSchedulerUtility.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_License_IPProtectionLicensing.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_ConditionalGroupMigration.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_Raytheonperformance.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_ParticipantMigration.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_CognosSupportwithADS.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_EndUser_Intro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_JasperReport_GetMethod.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_CM_ChgRedlineActions.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_27_CM_ConfigManagementLicenseImprovement.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_CM_ChgRedlineCAD.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_DPTEhancements.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_MPMLink_MultipleSplitAssemblyinBOM.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_MPMLink_GDS.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_AppParts.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_MadeFromHistory.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_DynPositioning.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_SmartPlatformLic.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_ConstraintSolver.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_PathFilter.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_QMS_LicenseUpdate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_QMS_RegHub.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_SIMTransPckg.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_SIM_CancelTranslationbyTranslationCoordinator.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_ESI_SmartCollectionPublish.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_XMLExport.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_MissingObjTracking.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_FaultTolerance.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_ImportPackages.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_MandatoryLUR.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_20_PAAgent.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_Section_Intro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_DeployConfig_Intro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_ContentOverview.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_PrefsProp.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_PlatformSupportChanges.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_DatabaseSupportChanges.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_BACUtility.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_VirusScannerHook.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_ImprovedFileVaultFunctionality.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_ATO_Authorization.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_PSBTableViews.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_CodeSigningforInstallers.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_Security_HSTS.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_eSignatureConfig.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_WinDUScheduler.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_WindchillDS.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_WincomExtSupport.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_LicenseOverage.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_WVS_WorkerRecControl.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_WVS_ECADNeutral.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_WVS_DocCollaboration.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_OptIn_disabled.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_EndUser_Intro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_CM_ChgRedline.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_CM_ChgChangeIntent.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_MPMLink_MultipleAssemblyinBOM.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_MPMLink_FlexSupport.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_MPMLink_MassUpdate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_MoveChoices.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_SIM_ReferenceDocsforTranslation.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_ESI_CoProduce.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_FeatureUsageReport.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_WPAVault.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_QMSTrainingRecords.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_SIM_ArbortextIsodraw.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NewandChanged_12_0_10_WHCOnline.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/middlemap_landingpages/WCFundamentals_LP.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupReqIntro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupBrowser.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupBrowserLocale.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupActiveXSettings.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupPopUpBlocker.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupLogInOut.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupLanguageSettings.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupPasswordEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupScreenResolution.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupPasswordPolicy.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupReplicaSite.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupVisualization.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupDTIInstall.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupIntro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupPreferences.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupProfileImageEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableViewManage.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableUse.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableColumnsModify.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableSearch.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableSort.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableActions.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableViewSelect.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableViewCustomize.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableViewNew.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableViewSave.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTableViewExportImport.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/UserSetupTreesAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavNavigatorAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavBrowseAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavSearchAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavHomeAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavAssignments.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavCheckedOutWorkRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavUpdateRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavActionGroups.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavBreadcrumAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavQuicklinksAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NavPageEmail.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsExample.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsInheritance.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsView.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsPagesAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsProductsAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsProductsList.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsProductsInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsProductActionsRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsLibAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsLibTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsLibInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsLibActionsRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsProjectAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsProjectTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsProjectInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ContextsProjectActionsRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotebookAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotebookTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotebookItemsAdd.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotebookFileUpload.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotebookFolderCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotebookFolderRename.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotebookFolderDuplicate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotebookFolderDelete.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchPerformSimpleSearch.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchPerform.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedKeyword.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedType.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedContext.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedCriteria.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedRelatedObject.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchResults.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchResultsTable.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchResultsFacets.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchResultsUnexpected.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSpecialSearchesIntro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSearchInContextBP.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSearchInTables.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchNetworkSearch.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSearchReference.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchUserPrefSet.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSearchKeywordWithoutIndexing.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchOperators.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchCriteriaWildcard.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSpecialCharacters.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchMode.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchRelatedObjectOperators.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchTolerance.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchUnitConversion.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchXML.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchExamples.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchExampleMinimumCriteriaBP.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchExampleMultCriteriaBP.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchExampleWildcards.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchCriteriaVersion.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchExampleNonLatest.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchExampleAccessControl.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdvancedSearchExampleReportTemplate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchHistorySavedSearchAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSearchHistory.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSavedSearches.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSearchSave.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSavedSearchUse.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchSavedSearchManage.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchAdminSavedSearchDelete.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchPickerAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchItemFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchPartFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchDocFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchRevisionFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchTypeFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchOrgSearchBy.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchContextSearchBy.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchDomainFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchUserFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchGroupFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchParticipantPickAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchParticipantFind.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LclSrchParticipantPick.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OviewFolderAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OviewFolderCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OviewFolderInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OviewFolderRename.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OviewFolderRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OviewFolderActionsRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OverviewFolderRevisIterVers.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsTasksAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsMyTasksTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsProductTasksTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsProjectTasksTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsTaskPageAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsTaskAssistant.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsTaskReassign.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AssignmentsParticipantSetupRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DataAccessUnderstand.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DataAccessContextTeam.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DataAccessRole.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DataAccessVisible.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DataAccessProjMgmtInvite.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DataAccessAccessControl.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewTypeRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewAttributesRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewAttributeConstraintsRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewSpecialCharacters.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonRevisableObjAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewStatusIndicators.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewObjectRelationships.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoPagesAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoPageCustomize.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewMiniInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoTablesAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoTablesGeneral.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoTablesChange.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoTablesRelatedObjects.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoTablesHistory.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewTimelineTable.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewTimelineFilter.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewTimelineOptions.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoTablesCollaboration.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ObjectOviewInfoTablesSecurity.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonActionsRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonActionsRightClickMenu.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonObjCheckOut.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonObjCheckIn.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonObjCheckoutUndo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonObjEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonMoveAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonObjMove.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonVersionsAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonMoveRestrictionsRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonItemRename.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonItemStateSet.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonRevisionNew.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonDeleteAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonItemDelete.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonExportListToTable.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonCompareObjVersions.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonComparisonReport.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonFilterEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CommonFilterProp.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualWCWVSAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualWCVisualizePartsAndDocumentsUser.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualWCIconRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepView.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/WVSGettingStartedGuide/WVSGSGAboutWebGLViewer.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/common_thingview/Mouse_Navigation_Modes_for_3D_Models.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/common_thingview/Mouse_Navigation_Modes_ProductView.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/common_thingview/Mouse_Navigation_Modes_PTC_Creo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/common_thingview/Mouse_Navigation_Modes_CATIA.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/common_thingview/Mouse_Navigation_Modes_Explore.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/common_thingview/Touchscreen_for_3D_Models.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/common_thingview/Using_the_Draggers_to_Transform_or_Rotate_Parts.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/WVSGettingStartedGuide/WVSGSGSettingWebGLPreferences.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualWCThumbnailOview.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualMiniThumbnailAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualThumbnailNavWindowRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepCreateDocument.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepCreateEPMStructure.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepCreatePartStructure.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepCreateDynamicDoc.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepCreateDocContent.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepCreateClipboardContent.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepCreateLocalFileData.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualJobMonAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualJobMonJobSumRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualJobMonJobDetailRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualRepAnnotView.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualAdvFeatures.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/WVSInterferenceDetectDefinition.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/WVSInterferenceDetectRelated.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/WVSInterferenceDetectEditSched.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/WVSInterferenceDetectVariantSpec.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualBatchPrint.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/VisualWCPrefSet.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentDownloadUploadPrefRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocCreateAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocCreateMultiple.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIDocCreateFromTemplate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocUpload.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocModifyAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocCheckOutAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocCheckIn.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtMultipleDocEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtContentReplace.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocInsert.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocDownload.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocEmail.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocStructureTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocStructureActions.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocStructurePanes.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocStructureAdd.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocStructureReorder.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtConfigSpecAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocStructureFilter.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocReferenceAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocReferenceAdd.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocReferenceRemove.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DocMgmtDocReferenceCommentsAdd.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIOpen.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIMenuRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTISearch.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIDocCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIDocTemplateCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIDocSaveClose.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTILocalCopies.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIDocCompare.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIDocInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIExplorerAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIExplorerView.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIExplorerActions.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIExplorerDragDrop.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIDocLinks.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIMicrosoftIntegration.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIMeetingSchedule.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIMapPropertiesAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIDocEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIWCDocAttributesInsert.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIBeforeYouBegin.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIServersManage.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIUserPrefsSet.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DTIConfirmation.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OfficeOnlineWCIntegration.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OfficeOnlineRegisterAzureApp.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OfficeOnlineInstallOfficeOnlineAddIn.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OfficeOnlinePreference.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OfficeOnlineWCMenuActions.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OfficeOnlineNewDoc.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OfficeOnlineDocCheckIn.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/OfficeOnlineDocViewInformation.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartsAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartAttributesRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartEndItemDetails.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartWhereUsedDetails.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMProductAnalyticsTableOview.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ComplianceTable_help.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/costAnalyticsTable_help.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/lcaAnalyticsTable_help.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMRequirementsTable.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartVarBaselineTab.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartMultipleCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSaveAs.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMNewViewVersionCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMNewOneOffVersionCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartInsertVersion.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersedeOview.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersedeConfig.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersedeTable.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersedeExample.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersedeWithExisting.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersede.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersedeEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersedeUndo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartSupersedeHistoryTable.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartUpdate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartMultipleEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartCommonAttributesEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartRename.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMViewAssign.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMPartDelete.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/PMDocumentAssociate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentLocalFileAttach.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentDragDropAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentFileDownload.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentURLOpen.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/AttachmentRemove.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesCreateNew.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesFromTemplateNew.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesAdd.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesBOMViewNotes.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesReorder.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NotesRemove.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LinkAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LinkInfoRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LinkCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LinkEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/LinkDelete.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineInfo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineObjTable.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineRemoveFrom.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineObjReplace.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineAddTo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineCollectObjects.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineWhyUse.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/BaselineCompareReportRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionInfo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionContentAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionContentRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionAddTo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionInitSelectObjTbl.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MgdCollectionCollectOptionRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/sublandingpages/CollabOview_LP.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingInfoRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingJoin.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingMinutesAdd.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingAgenda.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingHost.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/MeetingCancel.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DiscussionsAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DiscussionsTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DiscussionsSubscribe.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DiscussionsTopicCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DiscussionsPostingCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DiscussionsPostDraft.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DiscussionsEditTopic.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/DiscussionsDelete.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/SubscriptionAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/WebhookSubscriptions.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/SubscribeTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/SubscribeInfoRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/SubscribeEventsRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/SubscribeContextFolder.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/Subscribe.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/SubscribeEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ConfigureWebhookSubscription.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/SubscribeUnsubscribe.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/SubscribeDelete.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NetworkAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NetworkTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ParentsTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NetworkContextTableRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NetworkContextRefCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NetworkContextRefEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/NetworkContextRefMove.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CalAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CalFindUserOrg.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CalScheduleChange.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CalDelegWork.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CalReset.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ProdMatProcessAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ProdMatPromoReqInfoPageRef.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ProdMatPromoReqCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ProdMatPromoReqEdit.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ProdMatPermissionsAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ProdMatPromotePrefMgrAbout.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/ProdMatPromotePrefCreate.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/middlemap_landingpages/DataMgmtCapabilities_LP.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CCMOviewIntroduction.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CCMOviewProdDev.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CCMOviewConfigMgmtIntro.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CCMOviewPartDataOview.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CCMOviewPartCommonInfo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CCMOviewPartVersionInfo.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CCMOviewPartToDataAssocOview.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill/plus/r12.0.2.0/en/Windchill_Help_Center/CCMOviewPartToDescribedByData.html</loc>
+  <lastmod>2024-10-16T18:45:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

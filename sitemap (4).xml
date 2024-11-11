@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/index.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/connect/search.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_landing_page_HC.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsREST.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsOData.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsWRS.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsInstallprereq.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsInstall.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsFrameworkCapabilitiesOverview.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsSupportOData.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsODataAsService.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsEDM.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsODataPrimitives.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsSupportedQueryOptions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/filteringoptions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/orderby_sorting_options.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsDateTimeOffset.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsODataPreferHeader.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsEntityReferences.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsPTCAnnotations.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/API_catalog.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIs_Javadoc_JSdoc.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsProcessHTTPRequests.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsDomainConfiguration.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfigurationPathsandFiles.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfigingADomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsDomainJSONFile.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsImportDomianJSONFile.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsVersioningofAPI.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfigureUnboundFunction.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfigureUnboundAction.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfiguingEntitiesInADomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfiguringBasicInformation.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfiguringStructuralProperties.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfiguringNavigationalProperties.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfigureBoundFunction.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConfigureBoundAction.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsInheritWindchillFunc.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/delegate_version.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapis_subtypeable_naming_convention.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsExcludeSubTypes.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsDisableEntitySet.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsBatchSupport.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsBatchSupport_examples.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsConstraintSupport.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapi_lifecycle_state.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapi_set_lifecycle_state_action.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsNonceTokenFunction.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapis_latest_version_search.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsPTCDomains.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAccessDomainsOverview.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/prodmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccess_PTCProdMgmtDomainsfunctions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/prodmgmtdomain_functions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/docmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccess_PTCDocMgmtDomainsfunctions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/administrationdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/dataadmindomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/principalmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/ptcdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAccessPTCCommonDomainsfunctions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/navcriteriadomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/dynamicdocmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/partslistmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/serviceinfomgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccess_ServiceInfoMgmtDomains_action.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAccessPTCQualityDomains.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/qmsdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/ncdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/cemdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/regmstrdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/regmstr_action.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/capadomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/AuditDomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/infoenginedomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/factorydomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/mfgprocessmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/mfgprocessmgmtdomain_actions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/changemgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/clfstructuredomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccess_clfstructuredomains_functions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/savedsearchdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccess_savedsearchdomains_functions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/visualizationdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccessptcvisualizationdomainfunctions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/prodplatformmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/prodplatformmgmtdomain_actions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/prodplatformmgmtdomain_functions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/CADdocumentmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccess_PTCCADDocumentMgmtaction.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/effectivitymgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/eventmgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccess_PTCEventMgmtfunction.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/suppliermgmtdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflowdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_action.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_functions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/udidomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/udi_domain_action.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/udidomain_functions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/pdmdomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAccess.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapisaccess_checkin_checkout_undocheckout_delete_operations.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/common_navigations_all_domains.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesFetchNONCE.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCreatePart.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCreateMultipleParts.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCreatePart_Different_Organization.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCreatePartUse.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesDeletePartUsageAssociation.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesReadBOM.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesReadBOMGetPartStructure.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesQueryFilter.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesReadPartbyID.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCheckoutaPart.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCheckinaPart.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesRevisingMultipleParts.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restaccessexamples_prodmgmt_action_getpartslist.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesUpdatePartCommonAttributes.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesUpdateMultipleParts.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCreateClassifiedPart.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesRetrieveClassificationNodeInfo.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCreateaDocument_Different_Organization.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCreateaDocument.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCreateMultipleDocuments.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesCheckoutaDocument.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesUpdateaDocument.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesUpdateMultipleDocuments.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesUploadContent.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restaccessexamples_dataadmin_create_folder_subfolder.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restaccessexamples_dataadmin_update_folder_subfolder.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restaccessexamples_dataadmin_delete_folder_subfolder.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/example_foldercontents_full_representation.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/example_foldercontents_specific_type.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/example_foldercontents_attributes_of_specific_type.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_principal_getlicensegroup.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_principal_getlicensegroup_expandednavigation.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_getpartlists.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_getpartlistitemforpartlist.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_getspecificpartlist.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_getspecificpartlistitem.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_expandparttogetpartlistitem.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_expandillustrationtogetepmdocument.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_getillustrationsforpartlists.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_getspecificillustartion.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_getspecificsubstitute.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_partslistmgmt_getspecificsupplemntarypart.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_serviceinfomgmt_getinformationstructure.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_serviceinfomgmt_getpublicationstructure.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_serviceinfomgmt_getpublicationstructure_french.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_serviceinfomgmt_getstructureforinformationstructure.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_serviceinfomgmt_getstructureforpublicationstructure.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesInvokeInfoEngine.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesMPMretrieveoperations.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesMPMretrieveillustration.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesMPMretrievedocumentation.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAccessExamplesMPMreadbillofprocess.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetproblemreport.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetvariance.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetvarianceowner.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetchangerequest.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetchangenotice.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetchangetask.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetprocesslinks_multi_Objects.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetprocesslink.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetprocessobjects.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetprocessobject.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetreferenceobjects.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetreferenceobject.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetreferencelinks.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetreferencelink.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetaffectedlinks.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetaffectedbylinks.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetaffectedObjects.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetaffectedbyObjects.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetaffectedlinks_affectedObjects.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetattachments.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_changemgmt_getresultinglinks.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_changemgmt_getresultingobjects.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_changemgmt_getunincorporatedlinks.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_clf_domian_getchildofrootnode.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_clf_domian_getclassificationnode.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_clf_domian_getparentofclassificationnode.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_clf_domian_getchildofclassificationnode.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_clf_domian_getclassifiedobject.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_clf_domian_getspecificclassifiedobject.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_clf_domian_getlegalandenumvalues.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_clf_domian_getbindingattributes.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetsavedsearch.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesexecutesavedsearch.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamplesgetobjecttypeforsavedsearch.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_visualization_getrepresentation.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_visualization_getfidelities.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_audit_getaudits.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_audit_getauditdetails.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_audit_updateauditscore.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_administration_getaspecificrecord.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_administration_getcountofallrecords.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_administration_select_specificrecords_of_auditrecords.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_administration_getsorted_records_orderby.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_administration_getfilteredauditrecordswithlogicaloperator.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_administration_eventinfo_specificattribute.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_administration_eventinfo_filter.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_administration_eventinfo_time_filter.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdPlatformMgmt_getoptions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdPlatformMgmt_getoptionsgroup.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdPlatformMgmt_getoptionsgroupforspecificoption.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdPlatformMgmt_getspecificoptionwithoptiongroup.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_CADDocumentMgmt_getaspecificCADdocument.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_CADDocumentMgmt_getaspecificCADdocumentwithexpand.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_CADDocumentMgmt_getspecificCADdocumentusingfilter.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_CADDocumentMgmt_getparts.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_CADDocumentMgmt_getreferences.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_CADDocumentMgmt_getsourcesfromderiveddocuments.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_CADDocumentMgmt_getCADstructurewithBOMMembersOnly.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EffectivityMgmt_get_effectivitycontext.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EffectivityMgmt_get_effectivity_parts.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EffectivityMgmt_get_block_effectivity.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EffectivityMgmt_get_date_effectivity.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EffectivityMgmt_get_unit_effectivity.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EffectivityMgmt_get_effectivity_independent_assigned_expression.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EventMgmt_subscriptiontoobject.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EventMgmt_subscriptiontoobjectincontainer.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EventMgmt_subscriptiontoobjectinfolder.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_EventMgmt_deletesubscription.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_SupplierMgmt_getsourcingcontext.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdMgmt_SupplierMgmt_getsuppliermanufacturervendorparts.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdMgmt_SupplierMgmt_getfilterAXLEntry.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdMgmt_SupplierMgmt_getfilteronPartusingSourcingContextSourceLambda.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdMgmt_SupplierMgmt_createAMLEntry.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdMgmt_SupplierMgmt_createAVLEntry.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdMgmt_SupplierMgmt_update_vendor_part_AXLEntry.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_ProdMgmt_SupplierMgmt_deleteAXLEntry.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_regmstr_getregulatoryreport.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccessexamples_regmstr_createregulatoryreport.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_getworkitems.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_filter_workitems_activity_status.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_retriving_workitems_routing_options.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_retriving_workitems_subjects.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_completing_workitems.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_saving_workitems.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_retrieving_list_users_reassigning_workitems.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/workflow_domain_reassigning_workitems.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/example_retrieving_udi_supersets.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/example_deleting_details_udi_super_set.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/example_create_packaging_configurations.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/example_updating_packaging_config.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsCustomizingDomains.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsExtendingDomains.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAddTypeExtension.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAddCustomProperties.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAddCustomNavigations.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAddNewFunctions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsAddNewActions.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsCreateNewDomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsCustomizingExamplesCreateDomain.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsCustomizingExamplesSoftType.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_RESTAPIsCustomizingExamplesSoftAttribute.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_REST_atechsum_2.0.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_REST_atechsum_1_7.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_REST_atechsum_1_6.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_REST_atechsum_1_5.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_REST_atechsum_1_4.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_REST_atechsum_1_3.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_REST_atechsum_1_2.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/WCCG_REST_atechsum_1_1.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccess_version_details.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccess_version_details_2.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccess_version_details_3.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccess_version_details_4.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccess_version_details_5.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccess_version_details_6.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_restapiaccess_version_details_7.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://support.ptc.com/help/windchill_rest_services/r2.0/en/windchill_rest_services/wccg_rest_error_codes.html</loc>
+  <lastmod>2024-11-11T19:33:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
